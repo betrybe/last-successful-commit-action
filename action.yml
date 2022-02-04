@@ -17,7 +17,7 @@ inputs:
     default: 'push'
 
 outputs:
-  commitHash:
+  commit_hash:
     description: 'Last successful commit'
 
 runs:
